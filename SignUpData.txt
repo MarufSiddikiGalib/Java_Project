@@ -1,0 +1,35 @@
+             ## Added by Admin ##
+User Name : Galib
+Email : marusiddikigalib@gmail.com
+Password : 1234
+reapeat password : 1234
+Phone no : 01733059160
+===============================================
+             ## Registered user data ##
+User Name : Maruf
+Email : email
+Password : 789
+reapeat password : 789
+Phone no : 017
+===============================================
+             ## Registered user data ##
+User Name : mosharrafhossain
+Email : moharraf@gmail.com
+Password : 123
+reapeat password : 123
+Phone no : 017
+===============================================
+             ## Registered user data ##
+User Name : gg
+Email : eaf
+Password : gesg
+reapeat password : dgrg
+Phone no : rgfdfh
+===============================================
+             ## Registered user data ##
+User Name : gg
+Email : gg
+Password : gg
+reapeat password : gg
+Phone no : gg
+===============================================
